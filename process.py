@@ -13,10 +13,10 @@ for line in lines[3:]:
     parts = [x.strip() for x in line.split("•")]
     if parts == ['']:
         break
-    
+
     contact_lines.extend(parts)
 
-if '--tex' in sys.argv: 
+if '--tex' in sys.argv:
     lines.insert(0, "\\begin{nospace}\\begin{flushright}\n" +
                     "\n\n".join(contact_lines) +
                     "\n\\end{flushright}\\end{nospace}\n")

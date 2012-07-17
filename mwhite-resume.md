@@ -1,72 +1,65 @@
-Mike White
-==========
+John Q. Public
+==============
 
-m@mwhite.info • 28 Knollwood Rd., Medford, MA 02155 • (617) 899-1621 • github.com/mwhite
+foo@bar.com • (555) 867 5309
+123 Main St.
+Anytown, USA
 
 Work Experience
 ---------------
 
-*   **[GetchaBooks LLC][1]** (Medford, MA)
+*   **An Employer** (Some Place)
 
-    Co-Founder, December 2009 - present
+    Job Title, December 2009 - present
 
-    -   Built a website that makes it easy for college students to look up their
-        required textbooks and find the best way to buy them online
+    -   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua.
 
-    -   Architected a RESTful PHP/MySQL MVC backend
+    -   Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+        ut aliquip ex ea commodo consequat.
 
-    -   Wrote efficient, modular scrapers to extract data from college bookstore
-        websites
+    -   Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+        dolore eu fugiat nulla pariatur. 
 
-    -   Administered a Linux VPS running Ubuntu and Apache
+*   **Another Employer** (Another Place)
 
-    -   Managed the operations and finances of a profitable business
+    Job Title, June 2010 - August 2010
 
-*   **[AIFB, Karlsruhe Institute of Technology][2]** (Remote)
+    -   Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
+        officia deserunt mollit anim id est laborum
 
-    Student Research Assistant, June 2010 - August 2010
+    -   Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+        accusantium doloremque laudantium
 
-    -   Wrote [AskQ][3], a Semantic MediaWiki extension that uses known
-        structured data to interpret plain-text queries as structured semantic
-        queries
+*   **Yet Another Employer** (Somewhere)
 
-    -   Added a faceted browsing interface on top of Semantic MediaWiki's
-        semantic search results page
+    Job Title, 2007 - 2009
 
-*   **Boston Skyline, Inc.** (Boston, MA)
+    -   Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut
+        fugit
 
-    Manager and Salesperson, July 2008 - August 2010
-
-    -   Managed inventory, cashflow, and employees at a busy pushcart retailer
-
-    -   Trained new employees in all aspects of the business
-
- [1]: http://www.getchbooks.com
- [2]: http://www.aifb.kit.edu
- [3]: http://www.mediawiki.org/wiki/Extension:AskQ
+    -   Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,
+        consectetur, adipisci velit
 
 Education
 ---------
 
-*   **Tufts University** (Medford, MA)
+*   **Some University** (Some Place)
 
-    B.S. in Computer Science, May 2012
+    B.S. in Something, May 2012
 
 Skills
 ------
 
-*   Very experienced with PHP, C, MySQL, and MediaWiki
+*   Very experienced with blah blah blah
 
-*   Moderately experienced with Python and JavaScript
+*   Moderately experienced with blah blah blah blah
 
-*   Familiar with C++, Prolog, Lisp, Haskell, Java, Ruby, Bash, XSLT, \LaTeX, and CSS
+*   Familiar with blah, blah, blah
 
-*   Knowledgeable about theoretical and computational linguistics
-
-*   Proficient in German, familiar with Spanish
 
 Interests
 ---------
 
-*   Economics of open source, credentials and reputation systems, collective
-    decision-making, music
+*   Blah blah blah. Blah blah blah blah. Blah blah.
+
