@@ -68,5 +68,5 @@ Skills
 Interests
 ---------
 
-*   Economics of open source, credentials and reputation systems, collective
-    decision-making, music
+*   Economics of open source, credentials and reputation systems, currency
+    evolution, collective decision-making, spatial evolutionary game theory
