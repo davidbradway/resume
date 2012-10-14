@@ -10,8 +10,6 @@ Work Experience
 
     Software Engineer, September 2012 - present
 
-
-
 *   **[GetchaBooks LLC][1]** (Medford, MA)
 
     Co-Founder, December 2009 - present
@@ -56,11 +54,7 @@ Education
 Skills
 ------
 
-*   Very experienced with PHP, C, MySQL, and MediaWiki
-
-*   Moderately experienced with Python and JavaScript
-
-*   Familiar with C++, Prolog, Lisp, Haskell, Java, Ruby, Bash, XSLT, \LaTeX, and CSS
+*   Experienced with PHP, Python, JavaScript, MySQL, C, HTML/CSS, Bash, git, and others
 
 *   Knowledgeable about theoretical and computational linguistics
 
