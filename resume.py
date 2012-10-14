@@ -63,8 +63,16 @@ processor = Processor()
 
 @processor.register
 def tex(lines, contact_lines, *args):
+    # pandoc doesn't seem to support markdown inside latex blocks, so we're
+    # just going to hardcode the two most common link formats for now so people
+    # can put links in their contact info
+    def replace_links(line):
+        line = re.sub(r"<([^:]+@.+?)>", r"\href{mailto:\1}{\1}", line)
+        line = re.sub(r"<(http.+?)>", r"\url{\1}", line)
+        return re.sub(r"\[([^\]]+)\]\(([^\)]+)\)", r"\href{\2}{\1}", line)
+
     lines.insert(0, "\\begin{nospace}\\begin{flushright}\n" +
-                    "\n\n".join(contact_lines) +
+                    "\n\n".join(map(replace_links, contact_lines)) +
                     "\n\\end{flushright}\\end{nospace}\n")
     replace = {
         '~': '$\sim$',
@@ -84,8 +92,16 @@ def tex(lines, contact_lines, *args):
 
 @processor.register
 def html(lines, contact_lines, *args):
+    untex = ['LaTeX']
+
+    for word in untex:
+        # yuck
+        replace = lambda l: l.replace(r"\%s" % word, word)
+        lines = map(replace, lines)
+        contact_lines = map(replace, contact_lines)
+
     lines.insert(0, "<div id='container'><div id='contact'>%s</div>\n" %
-                        "<br>".join(contact_lines))
+                         ("<p>" + "<p>".join(contact_lines)))
     lines.insert(1, "<div>")
     lines.append("</div>")
 

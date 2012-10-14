@@ -13,7 +13,12 @@ body {
 #contact {
     float: right;
     text-align: right;
+    /*margin-top: -5px;*/
 }
+
+#contact p {
+    margin: .5em;
+} 
 
 /** {
 	clear: both;
@@ -37,4 +42,8 @@ h2 {
 
 li {
 	margin-top: 0em;
+}
+
+ul li ul li {
+    margin: .5em;
 }
