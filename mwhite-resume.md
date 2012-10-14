@@ -1,7 +1,7 @@
 Mike White
 ==========
 
-m@mwhite.info • 72 Bower St. #1, Medford, MA 02155 • (617) 899-1621 • github.com/mwhite
+m@mwhite.info • 72 Bower St. #1, Medford, MA 02155 • 617.899.1621 • github.com/mwhite
 
 Work Experience
 ---------------
