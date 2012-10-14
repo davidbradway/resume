@@ -1,10 +1,16 @@
 Mike White
 ==========
 
-m@mwhite.info • 28 Knollwood Rd., Medford, MA 02155 • (617) 899-1621 • github.com/mwhite
+m@mwhite.info • 72 Bower St. #1, Medford, MA 02155 • (617) 899-1621 • github.com/mwhite
 
 Work Experience
 ---------------
+
+*   **[Dimagi, Inc.][0]** (Cambridge, MA)
+
+    Software Engineer, September 2012 - present
+
+
 
 *   **[GetchaBooks LLC][1]** (Medford, MA)
 
@@ -35,6 +41,7 @@ Work Experience
     -   Managed inventory, cashflow, and employees at a busy pushcart retailer
     -   Trained new employees in all aspects of the business
 
+ [0]: http://www.dimagi.com
  [1]: http://www.getchbooks.com
  [2]: http://www.aifb.kit.edu
  [3]: http://www.mediawiki.org/wiki/Extension:AskQ
