@@ -23,9 +23,10 @@ body {
 /** {
 	clear: both;
 }*/
-a {
+a, a:visited {
 	text-decoration: none;
-	color: #333;
+    color: blue;
+	/*color: #333;*/
 }
         
 a:hover {
