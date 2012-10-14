@@ -12,14 +12,10 @@ Work Experience
 
     -   Built a website that makes it easy for college students to look up their
         required textbooks and find the best way to buy them online
-
     -   Architected a RESTful PHP/MySQL MVC backend
-
     -   Wrote efficient, modular scrapers to extract data from college bookstore
         websites
-
     -   Administered a Linux VPS running Ubuntu and Apache
-
     -   Managed the operations and finances of a profitable business
 
 *   **[AIFB, Karlsruhe Institute of Technology][2]** (Remote)
@@ -29,7 +25,6 @@ Work Experience
     -   Wrote [AskQ][3], a Semantic MediaWiki extension that uses known
         structured data to interpret plain-text queries as structured semantic
         queries
-
     -   Added a faceted browsing interface on top of Semantic MediaWiki's
         semantic search results page
 
@@ -38,7 +33,6 @@ Work Experience
     Manager and Salesperson, July 2008 - August 2010
 
     -   Managed inventory, cashflow, and employees at a busy pushcart retailer
-
     -   Trained new employees in all aspects of the business
 
  [1]: http://www.getchbooks.com
