@@ -39,8 +39,12 @@ And finally run it like this:
     python resume.py tex < resume.md
 
 """
+import hashlib
 import sys
 import re
+
+
+GRAVATAR = "http://www.gravatar.com/avatar/{hash}?s=200"
 
 
 class Processor(object):
@@ -63,31 +67,53 @@ processor = Processor()
 
 @processor.register
 def tex(lines, contact_lines, *args):
+    def sub(pattern, repl, string, **kwargs):
+        """Replacement for re.sub that doesn't replace pattern it's inside the
+        first latex command argument brackets.  Kind of a hack."""
+
+        flags = kwargs.pop('flags', 0) | re.X | re.M
+
+        num_groups = re.compile(pattern, flags).groups
+        pattern = r"""
+            (^|}{)   # beginning of line or second argument
+            ([^{}\n\r]*) # disallow { and }
+            %s
+            ([^{}\n\r]*)
+        """ % pattern
+
+        repl = re.sub(r"\\(\d)", lambda m: r"\%d" % (int(m.group(1)) + 2), repl)
+
+        return re.sub(pattern, r"\1\2%s\%d" % (repl, num_groups + 3), string,
+                      flags=flags, **kwargs)
+
     # pandoc doesn't seem to support markdown inside latex blocks, so we're
     # just going to hardcode the two most common link formats for now so people
     # can put links in their contact info
     def replace_links(line):
-        line = re.sub(r"<([^:]+@.+?)>", r"\href{mailto:\1}{\1}", line)
+        line = re.sub(r"<([^:]+@[^:]+?)>", r"\href{mailto:\1}{\1}", line)
         line = re.sub(r"<(http.+?)>", r"\url{\1}", line)
         return re.sub(r"\[([^\]]+)\]\(([^\)]+)\)", r"\href{\2}{\1}", line)
 
-    lines.insert(0, "\\begin{nospace}\\begin{flushright}\n" +
-                    "\n\n".join(map(replace_links, contact_lines)) +
-                    "\n\\end{flushright}\\end{nospace}\n")
-    replace = {
-        '~': '$\sim$',
-    }
+    contact_lines = "\n\n".join(map(replace_links, contact_lines))
 
+    # replacements to apply to the text in contact_lines, because it won't be
+    # processed by pandoc
+    replace = {
+        '~': r"\\textasciitilde{}"
+    }
     escape = ['#']
 
-    out = "".join(lines)
     for search in replace:
-        out = re.sub(search, replace[search], out)
+        contact_lines = sub(search, replace[search], contact_lines)
 
     for c in escape:
-        out = re.sub(r'([^\\])\%s' % c, r'\1\%s' % c, out)
+        contact_lines = sub(r'([^\\])\%s' % c, r'\1\%s' % c, contact_lines)
 
-    return out
+    lines.insert(0, "\\begin{nospace}\\begin{flushright}\n" +
+                    contact_lines +
+                    "\n\\end{flushright}\\end{nospace}\n")
+
+    return "".join(lines)
 
 
 @processor.register
@@ -100,8 +126,17 @@ def html(lines, contact_lines, *args):
         lines = map(replace, lines)
         contact_lines = map(replace, contact_lines)
 
+    gravatar = None
+    for line in contact_lines:
+        if line.find("@") > 0:
+            gravatar = GRAVATAR.format(
+                hash=hashlib.md5(line.lower().strip('<>')).hexdigest())
+            break
+    if gravatar is not None:
+        contact_lines.insert(0, "<img src='{}' />".format(gravatar))
+
     lines.insert(0, "<div id='container'><div id='contact'>%s</div>\n" %
-                         ("<p>" + "<p>".join(contact_lines)))
+                         ("<p>" + "</p><p>".join(contact_lines) + "</p>"))
     lines.insert(1, "<div>")
     lines.append("</div>")
 

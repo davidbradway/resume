@@ -5,6 +5,9 @@ HTML=$(SRC:.md=.html)
 
 all:    clean $(PDFS) $(HTML)
 
+pdf:   clean $(PDFS)
+html:  clean $(HTML)
+
 %.html: %.md
 	python resume.py html < $< | pandoc -t html -c resume.css -o $@
 
