@@ -1,7 +1,9 @@
-Mike White
-==========
+Michael White
+=============
 
-m@mwhite.info • 72 Bower St. #1, Medford, MA 02155 • 617.899.1621 • github.com/mwhite
+<http://github.com/mwhite>
+<m@mwhite.info>
+617.902.0837
 
 Work Experience
 ---------------
@@ -10,17 +12,28 @@ Work Experience
 
     Software Engineer, September 2012 - present
 
+    -   Maintained a 10KLOC XForms designer written in vanilla JavaScript +
+        jQuery
+        -   Addressed usability pain points, added features, and fixed bugs
+        -   Maintained net negative lines of code added through extensive
+            refactoring
+        -   Created a plugin that makes it easier to get the maximum value out
+            of Dimagi's extensions to XForms and related tools 
+    -   Added features to a large Django application for managing health data
+    -   Wrote reports for clients using CouchDB (map-reduce) and Python
+
 *   **[GetchaBooks LLC][1]** (Medford, MA)
 
-    Co-Founder, December 2009 - present
+    Co-Founder, 2010 - 2012
 
-    -   Built a website that makes it easy for college students to look up their
-        required textbooks and find the best way to buy them online
-    -   Architected a RESTful PHP/MySQL MVC backend
-    -   Wrote efficient, modular scrapers to extract data from college bookstore
-        websites
-    -   Administered a Linux VPS running Ubuntu and Apache
-    -   Managed the operations and finances of a profitable business
+    -   Created a website that lets college students specify their courses and
+        find the best way to buy their textbooks online
+    -   Wrote a 20KLOC backend using PHP, Propel ORM, and MySQL
+    -   Designed a generic architecture for harvesting course and book data
+        from college bookstore chain websites
+        -   wrote JavaScript and cookie-aware scrapers
+        -   optimized for both mass harvesting and on-demand lookup
+    -   Implemented online bookseller integration and price comparison algorithms
 
 *   **[AIFB, Karlsruhe Institute of Technology][2]** (Remote)
 
@@ -30,14 +43,7 @@ Work Experience
         structured data to interpret plain-text queries as structured semantic
         queries
     -   Added a faceted browsing interface on top of Semantic MediaWiki's
-        semantic search results page
-
-*   **Boston Skyline, Inc.** (Boston, MA)
-
-    Manager and Salesperson, July 2008 - August 2010
-
-    -   Managed inventory, cashflow, and employees at a busy pushcart retailer
-    -   Trained new employees in all aspects of the business
+        built-in semantic search results page
 
  [0]: http://www.dimagi.com
  [1]: http://www.getchbooks.com
@@ -54,14 +60,10 @@ Education
 Skills
 ------
 
-*   Experienced with PHP, Python, JavaScript, MySQL, C, HTML/CSS, Bash, git, and others
+*   Developing modular, high-performance web application backends
+
+*   Python, PHP, JavaScript, jQuery, SQL, CouchDB, HTML, CSS, C, git, vim
 
 *   Knowledgeable about theoretical and computational linguistics
 
 *   Proficient in German, familiar with Spanish
-
-Interests
----------
-
-*   Open source, alternative economies, currency, reputation, credentials,
-    collective decision-making
