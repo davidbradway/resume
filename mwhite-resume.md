@@ -10,7 +10,7 @@ Work Experience
 
 *   **[Dimagi, Inc.][0]** (Cambridge, MA)
 
-    Software Engineer, September 2012 - present
+    Software Engineer, September 2012 - December 2013
 
     -   Maintained a 10KLOC XForms designer written in vanilla JavaScript +
         jQuery
