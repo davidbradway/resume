@@ -1,3 +1,5 @@
+[See the blog post](http://cmwelsh.com/beautiful-resumes-with-markdown-and-latex)
+
 This is a simple Markdown resumé template, LaTeX header, and pre-processing
 script that can be used with [Pandoc](http://johnmacfarlane.net/pandoc/) to
 create professional-looking PDF and HTML output.
