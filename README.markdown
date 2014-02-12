@@ -11,9 +11,8 @@ Dependencies
 * A Tex installation with pdflatex and the Tex Gyre Pagella font, and some
   packages needed by pandoc.  On Ubuntu you can get this by installing
   `texlive`, `texlive-latex-extra`, and `tex-gyre`.
-
-Be sure to run `git submodule update --init` to fetch the custom pandoc
-template which the resumé is based on.
+* Fork pandoc-templates and clone it 
+  `git clone https://github.com/davidbradway/pandoc-templates.git`
 
 Usage
 -----
