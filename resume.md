@@ -5,11 +5,11 @@ David P Bradway
 Birthplace: Canton, Ohio
 Birthdate: 1 February 1982
 
-Interests
+Objective
 ---------
 
-*   Front-end development, visualization, data hacking, and signal processing
-*   Engineering role at cleantech startup Plotwatt in mid-to-late 2014
+*   Career in research, visualization, data acquisition, and signal processing
+*   Engineering, research and development role in academia or industry mid-to-late 2014
 
 Work Experience
 ---------------
@@ -35,7 +35,8 @@ Work Experience
 
     Research Intern, 2008
 
-    -   Worked within a busy team in a large, bureaucratic corporate environment
+    -   Worked within a busy team in a multinational corporation
+    -   Developed research features for the Acuson S2000 ultrasound scanner
     -   Learned version control and automated build systems
 
 
