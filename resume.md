@@ -93,19 +93,18 @@ Interests
 Refereed Publications
 ------
  
-1. BJ Fahey, RC Nelson, SJ Hsu, DP Bradway, DM Dumont, GE Trahey. In vivo guidance and assessment of liver radio-frequency ablation with acoustic radiation force elastography. Ultrasound Med Biol. 2008 Oct; 34(10):1590-1603. 
-1. BJ Fahey, RC Nelson, DP Bradway, SJ Hsu, DM Dumont, GE Trahey. In vivo visualization of abdominal malignancies with acoustic radiation force elastography. Phys Med Biol. 2008 Jan; 53(1):279-93. 
-1. BJ Fahey, RC Nelson, DP Bradway, SJ Hsu, DM Dumont, GE Trahey. Radiation force elastography of abdominal tumors. Physics in Medicine and Biology, 2008 
-1. KR Nightingale, ML Palmeri, L Zhai, KD Frinkley, M Wang, JJ Dahl, BJ Fahey, SJ Hsu, DP Bradway, GE Trahey. Impulsive acoustic radiation force: imaging approaches and clinical applications. The Journal of the Acoustical Society of America, 2008. vol. 123, issue 5, p. 3792 
-1. KR Nightingale, ML Palmeri, JJ Dahl, DP Bradway, SJ Hsu, RR Bouchard, SJ Rosenzweig, V Rotemberg, M Wang, L Zhai. Elasticity Imaging with Acoustic Radiation Force: Methods and Clinical Applications. Japanese journal of medical ultrasonics. 36. 116, 2009 
-1. PD Wolf, SA Eyerly, DP Bradway, DM Dumont, TD Bahnson, KR Nightingale, and GE Trahey. Near real time evaluation of cardiac radiofrequency ablation lesions with intracardiac echocardiography based acoustic radiation force impulse imaging. J. Acoust. Soc. Am. Volume 129, Issue 4, pp. 2438-2438, 2011 
-1. SA Eyerly, TD Bahnson, JI Koontz, DP Bradway, DM Dumont, GE Trahey, PD Wolf. Intracardiac Acoustic Radiation Force Impulse Imaging: A Novel Imaging Method for Intraprocedural Evaluation of Radiofrequency Ablation Lesions. Heart rhythm: the official journal of the Heart Rhythm Society. 1 November 2012, volume 9 issue 11 Pages 1855-1862 
-1. PJ Hollender, DP Bradway, PD Wolf, R Goswami, GE Trahey. “Intracardiac Acoustic Radiation Force Impulse (ARFI) and Shear Wave Imaging in Pigs with Focal Infarctions”. Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. In Press 
+0. BJ Fahey, RC Nelson, DP Bradway, SJ Hsu, DM Dumont, GE Trahey. In vivo visualization of abdominal malignancies with acoustic radiation force elastography. Phys Med Biol. 2008 Jan; 53(1):279-93. 
+0. BJ Fahey, RC Nelson, SJ Hsu, DP Bradway, DM Dumont, GE Trahey. In vivo guidance and assessment of liver radio-frequency ablation with acoustic radiation force elastography. Ultrasound Med Biol. 2008 Oct; 34(10):1590-1603. 
+0. KR Nightingale, ML Palmeri, L Zhai, KD Frinkley, M Wang, JJ Dahl, BJ Fahey, SJ Hsu, DP Bradway, GE Trahey. Impulsive acoustic radiation force: imaging approaches and clinical applications. The Journal of the Acoustical Society of America, 2008. vol. 123, issue 5, p. 3792 
+0. KR Nightingale, ML Palmeri, JJ Dahl, DP Bradway, SJ Hsu, RR Bouchard, SJ Rosenzweig, V Rotemberg, M Wang, L Zhai. Elasticity Imaging with Acoustic Radiation Force: Methods and Clinical Applications. Japanese journal of medical ultrasonics. 36. 116, 2009 
+0. PD Wolf, SA Eyerly, DP Bradway, DM Dumont, TD Bahnson, KR Nightingale, and GE Trahey. Near real time evaluation of cardiac radiofrequency ablation lesions with intracardiac echocardiography based acoustic radiation force impulse imaging. J. Acoust. Soc. Am. Volume 129, Issue 4, pp. 2438-2438, 2011 
+0. SA Eyerly, TD Bahnson, JI Koontz, DP Bradway, DM Dumont, GE Trahey, PD Wolf. Intracardiac Acoustic Radiation Force Impulse Imaging: A Novel Imaging Method for Intraprocedural Evaluation of Radiofrequency Ablation Lesions. Heart rhythm: the official journal of the Heart Rhythm Society. 1 November 2012, volume 9 issue 11 Pages 1855-1862 
+0. PJ Hollender, DP Bradway, PD Wolf, R Goswami, GE Trahey. “Intracardiac Acoustic Radiation Force Impulse (ARFI) and Shear Wave Imaging in Pigs with Focal Infarctions”. Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. August, 2013
 1. V Patel, JJ Dahl, DP Bradway, JR Doherty, S Smith. Acoustic Radiation Force Impulse Imaging (ARFI) on an IVUS Circular Array. Ultrasonic Imaging
   
 Non-refereed Proceedings
 ------
- 
+
 1. DP Bradway, SJ Hsu, BJ Fahey, JJ Dahl, TC Nichols, GE Trahey. Transthoracic Cardiac Acoustic Radiation Force Impulse Imaging: A Feasibility Study. IEEE Ultrasonics Symposium (IUS), 2007
 1. BJ Fahey, RC Nelson, SJ Hsu, DP Bradway, DM Dumont, GE Trahey. In Vivo Acoustic Radiation Force Impulse Imaging of Abdominal Lesions. IEEE Ultrasonics Symposium (IUS), 2007 
 1. DP Bradway, BJ Fahey, RC Nelson, GE Trahey. ARFI imaging of abdominal ablation and liver lesion biopsy. International Symposium on Ultrasonic Imaging and Tissue Characterization, 2009 
@@ -123,7 +122,7 @@ Non-refereed Proceedings
 1. PJ Hollender, DP Bradway, R Goswami, PD Wolf, GE Trahey. Acoustic radiation force techniques for imaging cardiac infarct in vivo: methods and initial results, International Symposium on Ultrasonic Imaging and Tissue Characterization, 2012 
 1. DP Bradway, PJ Hollender, R Goswami, PD Wolf, GE Trahey. Feasibility and Safety of Transthoracic Cardiac Acoustic Radiation Force Impulse Imaging Methods. 2012 IEEE Ultrasonics Symposium. 
 1. SA Eyerly, T Bahnson, J Koontz, DP Bradway, DM Dumont, GE Trahey, PD Wolf. Confirmation of Cardiac Radiofrequency Ablation Treatment Using Intra-Procedure Acoustic Radiation Force Impulse Imaging, 2012 IEEE Ultrasonics Symposium 
-1. PJ Hollender, DP Bradway, PD Wolf, Robi Goswami, Gregg Trahey. Intracardiac ARF-driven Shear Wave Velocimetry to Estimate Regional Myocardial Stiffness and Contractility in Pigs with Focal Infarctions. 2012 IEEE Ultrasonics Symposium 
+1. PJ Hollender, DP Bradway, PD Wolf, Robi Goswami, Gregg Trahey. Intracardiac ARF-driven Shear Wave Velocimetry to Estimate Regional Myocardial Stiffness and Contractility in Pigs with Focal Infarctions. 2012 IEEE Ultrasonics Symposium
 1. R Goswami, DP Bradway, J Kisslo, GE Trahey. Novel Application of Acoustic Radiation Force Impulse Imaging in Transthoracic Echocardiography. 2013 American College of Cardiology 62nd Annual Scientific Session 
 1. V Patel, JJ Dahl, DP Bradway, JR Doherty, S Smith. Acoustic Radiation Force Impulse Imaging (ARFI) on an IVUS Circular Array. 2013 IEEE UFFC Symposium 
 1. DP Bradway, MJ Pihl, A Krebs, BG Tomov, CS Kjaer, SI Nikolov, JA Jensen. Real-time GPU implementation of transverse oscillation vector velocity flow imaging. 2014 SPIE Medical Imaging 
