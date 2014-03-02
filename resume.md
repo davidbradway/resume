@@ -9,7 +9,7 @@ Objective
 ---------
 
 *   Career in research, visualization, data acquisition, and signal processing
-*   Engineering, research and development role in academia or industry mid-to-late 2014
+*   Engineering, research and development role in academia or industry, Autumn 2014
 
 Work Experience
 ---------------
@@ -19,24 +19,25 @@ Work Experience
     Postdoctoral Researcher, 2013 - present
 
     -   Developed OpenCL software for processing 3-D Doppler ultrasound data on the GPU
-    -   Presenting work at conferences, doing clinical feasibility study, and working to publish results
+    -   Conference presentaion, poster, abstracts, and proceedings accepted
+    -   Pursuing pre-clinical feasibility study and peer-reviewed article
 
 
 *   **Duke University** (Durham, NC, USA)
 
-    Research and Teaching Assistant, 2005 - 2013
+    Graduate Research and Teaching Assistant, 2005 - 2013
 
     -   PhD project using ultrasound to noninvasively measure the heart's mechanical properties
-    -   Reviewed scientific literature and formulated research plans
-    -   Organized and carried out clinical trials at Duke University Medical Center
+    -   Reviewed scientific literature, formulated and carried out research plan
+    -   Organized and conducted out pre-clinical trials at Duke University Medical Center
     -   Presented results at conferences, published proceedings and co-authored articles
 
 *   **Siemens Healthcare** (Issaquah, WA, USA)
 
-    Research Intern, 2008
+    Graduate Student Research Intern, 2008
 
-    -   Worked within a busy team in a multinational corporation
-    -   Developed research features for the Acuson S2000 ultrasound scanner
+    -   Worked within a research team in a multinational corporation
+    -   Developed feature for research mode of Acuson S2000 ultrasound scanner
     -   Learned version control and automated build systems
 
 
@@ -45,7 +46,7 @@ Education
 
 *   **Duke University** (Durham, NC, USA)
 
-    Ph.D. in Biomedical Engineering, May 2013
+    Ph.D. in Biomedical Engineering, May 2013.
 
 *   **The Ohio State University** (Columbus, OH, USA)
 
@@ -69,7 +70,8 @@ Honors and Activities
 *   Whitaker International Program Scholar  (2013)
 *   National Science Foundation Graduate Research Fellow (2005 - 2008)
 *   Goldwater Research Scholar (2004 - 2005)
-*   Organized engineering design and build trip to Honduran orphanage (2004)
+*   Founded engineering community service group at Ohi State; Organized engineering design and build trip to Honduran orphanage (2004)
+
 
 Skills
 ------
@@ -77,31 +79,31 @@ Skills
 *   Fluent in several languages and technologies: C/C++, OpenCL, Matlab, MS Office
 *   Used several more on projects: PHP, Ruby, Rails, Perl, Python, LabVIEW, flavors of SQL, HTML
 *   Ability to teach self: for cover letter project learned Javascript (CanvasJS) and RWD CSS
-*   Previous focus on signal and image processing, scientific programming and computing, simulation, experimental design, and statistical analysis
+*   Focus on problem solving, signal and image processing, scientific programming and computing, simulation, experimental design, and statistical analysis
 *   Self-motivated execution of a high-level plan with nominal oversight
-*   Strong verbal communication, data visualization and presentation display skills
-*   Successful writer of fellowships, scholarships, and grant applications 
+*   Strong written and verbal communication, and data visualization display skills
+*   Has successfully written fellowships, scholarships, and grant applications
 
 Interests
 ------
 
-*   TED5000 owner. Plotwatt user. Neurio backer. MS Hohm & Google PowerMeter ex-user
-*   Creating tools to close feedback loops, to measure, effect change, and automate it
+*   Tracking Energy efficiency: TED5000 owner, Plotwatt user, Neurio backer, MS Hohm & Google PowerMeter ex-user
+*   Creating tools to close feedback loops: measure data, effect change, and automate it
 *   Personal 'hacking' in mobile/embedded systems: Arduino, Raspberry Pi, Android
-*   Machine learning so computers help us make better informed decisions
-*   Influencing and studying behavior. Economics, the Nudge Unit, Dan Ariely's work
+*   Machine learning: computers can help us make better informed decisions
+*   Influencing and understanding behavior: Economics, the Nudge Unit, Dan Ariely's work
 
 Refereed Publications
 ------
  
 1. BJ Fahey, RC Nelson, DP Bradway, SJ Hsu, DM Dumont, GE Trahey. In vivo visualization of abdominal malignancies with acoustic radiation force elastography. Phys Med Biol. 2008 Jan; 53(1):279-93. 
-1. BJ Fahey, RC Nelson, SJ Hsu, DP Bradway, DM Dumont, GE Trahey. In vivo guidance and assessment of liver radio-frequency ablation with acoustic radiation force elastography. Ultrasound Med Biol. 2008 Oct; 34(10):1590-1603. 
-1. KR Nightingale, ML Palmeri, L Zhai, KD Frinkley, M Wang, JJ Dahl, BJ Fahey, SJ Hsu, DP Bradway, GE Trahey. Impulsive acoustic radiation force: imaging approaches and clinical applications. The Journal of the Acoustical Society of America, 2008. vol. 123, issue 5, p. 3792 
-1. KR Nightingale, ML Palmeri, JJ Dahl, DP Bradway, SJ Hsu, RR Bouchard, SJ Rosenzweig, V Rotemberg, M Wang, L Zhai. Elasticity Imaging with Acoustic Radiation Force: Methods and Clinical Applications. Japanese journal of medical ultrasonics. 36. 116, 2009 
-1. PD Wolf, SA Eyerly, DP Bradway, DM Dumont, TD Bahnson, KR Nightingale, and GE Trahey. Near real time evaluation of cardiac radiofrequency ablation lesions with intracardiac echocardiography based acoustic radiation force impulse imaging. J. Acoust. Soc. Am. Volume 129, Issue 4, pp. 2438-2438, 2011 
-1. SA Eyerly, TD Bahnson, JI Koontz, DP Bradway, DM Dumont, GE Trahey, PD Wolf. Intracardiac Acoustic Radiation Force Impulse Imaging: A Novel Imaging Method for Intraprocedural Evaluation of Radiofrequency Ablation Lesions. Heart rhythm: the official journal of the Heart Rhythm Society. 1 November 2012, volume 9 issue 11 Pages 1855-1862 
-1. PJ Hollender, DP Bradway, PD Wolf, R Goswami, GE Trahey. “Intracardiac Acoustic Radiation Force Impulse (ARFI) and Shear Wave Imaging in Pigs with Focal Infarctions”. Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. August, 2013
-2. V Patel, JJ Dahl, DP Bradway, JR Doherty, S Smith. Acoustic Radiation Force Impulse Imaging (ARFI) on an IVUS Circular Array. Ultrasonic Imaging
+2. BJ Fahey, RC Nelson, SJ Hsu, DP Bradway, DM Dumont, GE Trahey. In vivo guidance and assessment of liver radio-frequency ablation with acoustic radiation force elastography. Ultrasound Med Biol. 2008 Oct; 34(10):1590-1603. 
+3. KR Nightingale, ML Palmeri, L Zhai, KD Frinkley, M Wang, JJ Dahl, BJ Fahey, SJ Hsu, DP Bradway, GE Trahey. Impulsive acoustic radiation force: imaging approaches and clinical applications. The Journal of the Acoustical Society of America, 2008. vol. 123, issue 5, p. 3792 
+4. KR Nightingale, ML Palmeri, JJ Dahl, DP Bradway, SJ Hsu, RR Bouchard, SJ Rosenzweig, V Rotemberg, M Wang, L Zhai. Elasticity Imaging with Acoustic Radiation Force: Methods and Clinical Applications. Japanese journal of medical ultrasonics. 36. 116, 2009 
+5. PD Wolf, SA Eyerly, DP Bradway, DM Dumont, TD Bahnson, KR Nightingale, and GE Trahey. Near real time evaluation of cardiac radiofrequency ablation lesions with intracardiac echocardiography based acoustic radiation force impulse imaging. J. Acoust. Soc. Am. Volume 129, Issue 4, pp. 2438-2438, 2011 
+6. SA Eyerly, TD Bahnson, JI Koontz, DP Bradway, DM Dumont, GE Trahey, PD Wolf. Intracardiac Acoustic Radiation Force Impulse Imaging: A Novel Imaging Method for Intraprocedural Evaluation of Radiofrequency Ablation Lesions. Heart rhythm: the official journal of the Heart Rhythm Society. 1 November 2012, volume 9 issue 11 Pages 1855-1862 
+7. PJ Hollender, DP Bradway, PD Wolf, R Goswami, GE Trahey. “Intracardiac Acoustic Radiation Force Impulse (ARFI) and Shear Wave Imaging in Pigs with Focal Infarctions”. Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. August, 2013
+7. V Patel, JJ Dahl, DP Bradway, JR Doherty, S Smith. Acoustic Radiation Force Impulse Imaging (ARFI) on an IVUS Circular Array. Ultrasonic Imaging
   
 Non-refereed Proceedings
 ------
