@@ -3,7 +3,7 @@ David Bradway's Resumé
 
 An elegant Markdown -> PDF/HTML resumé generator
 
-http://davidbradway.github.io
+http://davidbradway.github.io/resume
 
 
 [See the blog post](http://cmwelsh.com/beautiful-resumes-with-markdown-and-latex)
