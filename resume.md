@@ -1,8 +1,8 @@
-David P Bradway
+David Pierson Bradway
 ===============
 
-<david.bradway@gmail.com>
-Birthplace: Canton, Ohio
+<david.bradway@gmail.com>  
+Birthplace: Canton, Ohio  
 Birthdate: 1 February 1982
 
 Objective
@@ -82,16 +82,15 @@ Skills
 *   Focus on problem solving, signal and image processing, scientific programming and computing, simulation, experimental design, and statistical analysis
 *   Self-motivated execution of a high-level plan with nominal oversight
 *   Strong written and verbal communication, and data visualization display skills
-*   Has successfully written fellowships, scholarships, and grant applications
+*   Successful writer of fellowships, scholarships, and grants
 
 Interests
 ------
 
 *   Tracking Energy efficiency: TED5000 owner, Plotwatt user, Neurio backer, MS Hohm & Google PowerMeter ex-user
 *   Creating tools to close feedback loops: measure data, effect change, and automate it
-*   Personal 'hacking' in mobile/embedded systems: Arduino, Raspberry Pi, Android
-*   Machine learning: computers can help us make better informed decisions
-*   Influencing and understanding behavior: Economics, the Nudge Unit, Dan Ariely's work
+*   Personal 'hacking' in mobile and embedded systems: Arduino, Raspberry Pi, Android
+*   Understanding behavior and desicision making: Behavioral Economics, the Nudge Unit, Dan Ariely's work
 
 Refereed Publications
 ------
@@ -102,8 +101,9 @@ Refereed Publications
 4. KR Nightingale, ML Palmeri, JJ Dahl, DP Bradway, SJ Hsu, RR Bouchard, SJ Rosenzweig, V Rotemberg, M Wang, L Zhai. Elasticity Imaging with Acoustic Radiation Force: Methods and Clinical Applications. Japanese journal of medical ultrasonics. 36. 116, 2009 
 5. PD Wolf, SA Eyerly, DP Bradway, DM Dumont, TD Bahnson, KR Nightingale, and GE Trahey. Near real time evaluation of cardiac radiofrequency ablation lesions with intracardiac echocardiography based acoustic radiation force impulse imaging. J. Acoust. Soc. Am. Volume 129, Issue 4, pp. 2438-2438, 2011 
 6. SA Eyerly, TD Bahnson, JI Koontz, DP Bradway, DM Dumont, GE Trahey, PD Wolf. Intracardiac Acoustic Radiation Force Impulse Imaging: A Novel Imaging Method for Intraprocedural Evaluation of Radiofrequency Ablation Lesions. Heart rhythm: the official journal of the Heart Rhythm Society. 1 November 2012, volume 9 issue 11 Pages 1855-1862 
-7. PJ Hollender, DP Bradway, PD Wolf, R Goswami, GE Trahey. “Intracardiac Acoustic Radiation Force Impulse (ARFI) and Shear Wave Imaging in Pigs with Focal Infarctions”. Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. August, 2013
-7. V Patel, JJ Dahl, DP Bradway, JR Doherty, S Smith. Acoustic Radiation Force Impulse Imaging (ARFI) on an IVUS Circular Array. Ultrasonic Imaging
+7. PJ Hollender, DP Bradway, PD Wolf, R Goswami, GE Trahey. Intracardiac Acoustic Radiation Force Impulse (ARFI) and Shear Wave Imaging in Pigs with Focal Infarctions. Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. August, 2013
+8. V Patel, JJ Dahl, DP Bradway, JR Doherty, SY Lee, SW Smith. Acoustic Radiation Force Impulse Imaging (ARFI) on an IVUS Circular Array. Ultrason Imaging. April, 2014 36: 98-111
+9. SA Eyerly, TD Bahnson, JI Koontz, DP Bradway, DM Dumont, GE Trahey, PD Wolf. Contrast in Intracardiac Acoustic Radiation Force Impulse Images of Radiofrequency Ablation Lesions. Ultrason Imaging. Apri,l 2014. 36: 133-148
   
 Non-refereed Proceedings
 ------
