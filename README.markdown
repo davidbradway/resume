@@ -11,8 +11,8 @@ Dependencies
   arguments format changed) `apt-get install pandoc`
 * Python 2.7
 * A Tex installation with pdflatex and the Tex Gyre Pagella font, and some
-  packages needed by pandoc.  On Ubuntu you can get this by installing
-  `texlive`, `texlive-latex-extra`, and `tex-gyre`.
+  packages needed by pandoc.  On Ubuntu you can get this by doing:
+  `sudo apt-get install pandoc texlive texlive-latex-extra tex-gyre`
 * Fork pandoc-templates and clone it 
   `git clone https://github.com/davidbradway/pandoc-templates.git`
 
