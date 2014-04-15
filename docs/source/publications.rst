@@ -13,7 +13,7 @@ Peer Reviewed Articles
 6. SA Eyerly, TD Bahnson, JI Koontz, DP Bradway, DM Dumont, GE Trahey, PD Wolf. Intracardiac Acoustic Radiation Force Impulse Imaging: A Novel Imaging Method for Intraprocedural Evaluation of Radiofrequency Ablation Lesions. Heart rhythm: the official journal of the Heart Rhythm Society. 1 November 2012, volume 9 issue 11 Pages 1855-1862 
 7. PJ Hollender, DP Bradway, PD Wolf, R Goswami, GE Trahey. Intracardiac Acoustic Radiation Force Impulse (ARFI) and Shear Wave Imaging in Pigs with Focal Infarctions. Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. August, 2013
 8. V Patel, JJ Dahl, DP Bradway, JR Doherty, SY Lee, SW Smith. Acoustic Radiation Force Impulse Imaging (ARFI) on an IVUS Circular Array. Ultrason Imaging. April, 2014 36: 98-111
-9. SA Eyerly, TD Bahnson, JI Koontz, DP Bradway, DM Dumont, GE Trahey, PD Wolf. Contrast in Intracardiac Acoustic Radiation Force Impulse Images of Radiofrequency Ablation Lesions. Ultrason Imaging. Apri,l 2014. 36: 133-148
+9. SA Eyerly, TD Bahnson, JI Koontz, DP Bradway, DM Dumont, GE Trahey, PD Wolf. Contrast in Intracardiac Acoustic Radiation Force Impulse Images of Radiofrequency Ablation Lesions. Ultrason Imaging. April 2014. 36: 133-148
   
 Abstracts and Proceedings
 ^^^^^^^^^^^^^^^^^^^^^^^^
