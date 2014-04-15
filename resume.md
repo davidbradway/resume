@@ -1,9 +1,7 @@
 David Pierson Bradway
 ===============
 
-<david.bradway@gmail.com>  
-Birthplace: Canton, Ohio  
-Birthdate: 1 February 1982
+<david.bradway@gmail.com> • Birthplace: Canton, Ohio • Birthdate: 1 February 1982
 
 Objective
 ---------
