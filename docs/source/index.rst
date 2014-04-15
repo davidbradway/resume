@@ -1,13 +1,7 @@
-.. Resume Docs documentation master file, created by
-   
-.. raw:: html
-   :file: _build/html/_static/raw/ip.html
-
-.. raw:: html
-   :file: _build/html/_static/raw/quick.html
+.. Resume Docs documentation master file
    
 David Pierson Bradway
-=====
+=====================
 
 - <david.bradway@gmail.com>  
 - Birthplace: Canton, Ohio  
@@ -25,4 +19,3 @@ David Pierson Bradway
     skills
     interests
     publications
-    ...

@@ -3,7 +3,7 @@ Publications
 ##################################
 
 Peer Reviewed Articles
-^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
  
 1. BJ Fahey, RC Nelson, DP Bradway, SJ Hsu, DM Dumont, GE Trahey. In vivo visualization of abdominal malignancies with acoustic radiation force elastography. Phys Med Biol. 2008 Jan; 53(1):279-93. 
 2. BJ Fahey, RC Nelson, SJ Hsu, DP Bradway, DM Dumont, GE Trahey. In vivo guidance and assessment of liver radio-frequency ablation with acoustic radiation force elastography. Ultrasound Med Biol. 2008 Oct; 34(10):1590-1603. 
@@ -16,7 +16,7 @@ Peer Reviewed Articles
 9. SA Eyerly, TD Bahnson, JI Koontz, DP Bradway, DM Dumont, GE Trahey, PD Wolf. Contrast in Intracardiac Acoustic Radiation Force Impulse Images of Radiofrequency Ablation Lesions. Ultrason Imaging. April 2014. 36: 133-148
   
 Abstracts and Proceedings
-^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. DP Bradway, SJ Hsu, BJ Fahey, JJ Dahl, TC Nichols, GE Trahey. Transthoracic Cardiac Acoustic Radiation Force Impulse Imaging: A Feasibility Study. IEEE Ultrasonics Symposium (IUS), 2007
 2. BJ Fahey, RC Nelson, SJ Hsu, DP Bradway, DM Dumont, GE Trahey. In Vivo Acoustic Radiation Force Impulse Imaging of Abdominal Lesions. IEEE Ultrasonics Symposium (IUS), 2007 
