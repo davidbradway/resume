@@ -15,8 +15,16 @@ html:  clean $(HTML)
 %.pdf:  %.md $(LATEX_TEMPLATE)
 	python resume.py tex < $< | pandoc --template=$(LATEX_TEMPLATE) -H header.tex -o $@
 
+ifeq ($(OS),Windows_NT)
+  # on Windows
+  RM = cmd //C del
+else
+  # on Unix
+  RM = rm -f
+endif
+
 clean:
-	rm -f *.html *.pdf
+	$(RM) *.html *.pdf
 
 $(LATEX_TEMPLATE):
 	git submodule update --init
