@@ -1,7 +1,7 @@
 .. Resume Docs documentation master file
    
-Resume/CV of David Pierson Bradway
-===================================
+Web-Enhanced Resume / CV
+=========================
 
 .. toctree::
     :maxdepth: 3
