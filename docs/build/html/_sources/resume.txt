@@ -53,13 +53,12 @@ Work Experience
 Education
 =========
 
--  **`Duke University <http://duke.edu/>`__** (Durham, NC, USA)
+-  **Duke University** (Durham, NC, USA)
 
    `Ph.D. in Biomedical Engineering <http://bme.duke.edu/grad>`__, May
    2013.
 
--  **`The Ohio State University (OSU) <http://www.osu.edu/>`__**
-   (Columbus, OH, USA)
+-  **The Ohio State University (OSU)** (Columbus, OH, USA)
 
    `B.S. in Electrical and Computer
    Engineering <http://ece.osu.edu/futurestudents/undergrad>`__, June

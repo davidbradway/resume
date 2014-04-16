@@ -41,11 +41,11 @@ Birthdate: 1 February 1982
 
 #Education
 
-*   **[Duke University](http://duke.edu/)** (Durham, NC, USA)
+*   **Duke University** (Durham, NC, USA)
 
     [Ph.D. in Biomedical Engineering](http://bme.duke.edu/grad), May 2013.
 
-*   **[The Ohio State University (OSU)](http://www.osu.edu/)** (Columbus, OH, USA)
+*   **The Ohio State University (OSU)** (Columbus, OH, USA)
 
     [B.S. in Electrical and Computer Engineering](http://ece.osu.edu/futurestudents/undergrad), June 2005.
 
