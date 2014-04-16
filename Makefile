@@ -1,3 +1,4 @@
+
 SRC = $(wildcard *.md)
 
 PDFS=$(SRC:.md=.pdf)
@@ -13,6 +14,7 @@ html:  clean $(HTML)
 	python resume.py html $(GRAVATAR_OPTION) < $< | pandoc -t html -c resume.css -o $@
 	pandoc --from=markdown --to=rst --output=./docs/source/resume.rst resume.md
 	cd ./docs && $(MAKE) html
+	cd ./docs && $(MAKE) singlehtml
 
 %.pdf:  %.md $(LATEX_TEMPLATE)
 	python resume.py tex < $< | pandoc --template=$(LATEX_TEMPLATE) -H header.tex -o $@
@@ -29,7 +31,6 @@ endif
 
 clean:
 	$(RM) *.html *.pdf
-	$(RM) ./docs/source/resume.rst
 	cd ./docs && $(MAKE) clean
 
 $(LATEX_TEMPLATE):

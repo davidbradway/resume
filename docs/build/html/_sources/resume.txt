@@ -6,7 +6,7 @@ David Pierson Bradway
 | Birthdate: 1 February 1982
 
 Objective
----------
+=========
 
 -  Career in research, visualization, data acquisition, and signal
    processing
@@ -14,7 +14,7 @@ Objective
    Autumn 2014
 
 Work Experience
----------------
+===============
 
 -  **Technical University of Denmark (DTU)** (Kongens Lyngby, Denmark)
 
@@ -49,7 +49,7 @@ Work Experience
    -  Learned version control and automated build systems
 
 Education
----------
+=========
 
 -  **Duke University** (Durham, NC, USA)
 
@@ -60,7 +60,7 @@ Education
    B.S. in Electrical and Computer Engineering, June 2005.
 
 Relevant Course Work
---------------------
+====================
 
 -  Digital Signal Processing
 -  Circuits and Instrumentation
@@ -71,7 +71,7 @@ Relevant Course Work
 -  Education and communication courses
 
 Honors and Activities
----------------------
+=====================
 
 -  Whitaker International Program Scholar (2013)
 -  National Science Foundation Graduate Research Fellow (2005-2008)
@@ -81,7 +81,7 @@ Honors and Activities
    (2004)
 
 Skills
-------
+======
 
 -  Expert in signal and imaging processing programming: Matlab, Python,
    LabVIEW
@@ -97,7 +97,7 @@ Skills
 -  Successful writer of fellowships, scholarships, and grants
 
 Interests
----------
+=========
 
 -  Tracking Energy efficiency: TED5000 owner, Plotwatt user, Neurio
    backer, MS Hohm & Google PowerMeter ex-user
@@ -109,10 +109,10 @@ Interests
    the Nudge Unit, Dan Ariely's work
 
 Publications
-------------
+============
 
 Journal Articles
-~~~~~~~~~~~~~~~~
+----------------
 
 -  `BJ Fahey, RC Nelson, DP Bradway, SJ Hsu, DM Dumont, GE Trahey. In
    vivo visualization of abdominal malignancies with acoustic radiation
@@ -159,7 +159,7 @@ Journal Articles
    2014. 36: 133-148. <http://dx.doi.org/10.1177/0161734613519602>`__
 
 Abstracts and Proceedings
-~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------
 
 -  `DP Bradway, SJ Hsu, BJ Fahey, JJ Dahl, TC Nichols, GE Trahey.
    Transthoracic Cardiac Acoustic Radiation Force Impulse Imaging: A

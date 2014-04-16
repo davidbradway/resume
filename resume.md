@@ -5,12 +5,12 @@
 Birthplace: Canton, Ohio  
 Birthdate: 1 February 1982  
 
-##Objective
+#Objective
 
 *   Career in research, visualization, data acquisition, and signal processing
 *   Engineering, research and development role in academia or industry, Autumn 2014
 
-##Work Experience
+#Work Experience
 
 *   **Technical University of Denmark (DTU)** (Kongens Lyngby, Denmark)
 
@@ -39,7 +39,7 @@ Birthdate: 1 February 1982
     -   Learned version control and automated build systems
 
 
-##Education
+#Education
 
 *   **Duke University** (Durham, NC, USA)
 
@@ -50,7 +50,7 @@ Birthdate: 1 February 1982
     B.S. in Electrical and Computer Engineering, June 2005.
 
 
-##Relevant Course Work
+#Relevant Course Work
 
 *   Digital Signal Processing
 *   Circuits and Instrumentation
@@ -61,7 +61,7 @@ Birthdate: 1 February 1982
 *   Education and communication courses
 
 
-##Honors and Activities
+#Honors and Activities
 
 *   Whitaker International Program Scholar  (2013)
 *   National Science Foundation Graduate Research Fellow (2005-2008)
@@ -70,7 +70,7 @@ Birthdate: 1 February 1982
 *   Organized engineering design and build trip to Honduran orphanage (2004)
 
 
-##Skills
+#Skills
 
 *   Expert in signal and imaging processing programming: Matlab, Python, LabVIEW
 *   Working knowlegde of other tools and languages: C/C++, OpenCL, R, Mathematica, MS Office
@@ -81,7 +81,7 @@ Birthdate: 1 February 1982
 *   Successful writer of fellowships, scholarships, and grants
 
 
-##Interests
+#Interests
 
 *   Tracking Energy efficiency: TED5000 owner, Plotwatt user, Neurio backer, MS Hohm & Google PowerMeter ex-user
 *   Creating tools to close feedback loops: measure data, effect change, and automate it
@@ -89,9 +89,9 @@ Birthdate: 1 February 1982
 *   Understanding behavior and desicision making: Behavioral Economics, the Nudge Unit, Dan Ariely's work
 
 
-##Publications
+#Publications
 
-###Journal Articles
+##Journal Articles
 - [BJ Fahey, RC Nelson, DP Bradway, SJ Hsu, DM Dumont, GE Trahey. In vivo visualization of abdominal malignancies with acoustic radiation force elastography. Phys Med Biol. 2008 Jan; 53(1):279-93.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2238175/)
 - [BJ Fahey, RC Nelson, SJ Hsu, DP Bradway, DM Dumont, GE Trahey. In vivo guidance and assessment of liver radio-frequency ablation with acoustic radiation force elastography. Ultrasound Med Biol. 2008 Oct; 34(10):1590-1603.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2610689/)
 - [KR Nightingale, ML Palmeri, L Zhai, KD Frinkley, M Wang, JJ Dahl, BJ Fahey, SJ Hsu, DP Bradway, GE Trahey. Impulsive acoustic radiation force: imaging approaches and clinical applications. The Journal of the Acoustical Society of America, 2008. vol. 123, issue 5, p. 3792.](http://dx.doi.org/10.1121/1.2935460)
@@ -103,7 +103,7 @@ Birthdate: 1 February 1982
 - [SA Eyerly, TD Bahnson, JI Koontz, DP Bradway, DM Dumont, GE Trahey, PD Wolf. Contrast in Intracardiac Acoustic Radiation Force Impulse Images of Radiofrequency Ablation Lesions. Ultrason Imaging. April, 2014. 36: 133-148.](http://dx.doi.org/10.1177/0161734613519602)
 
 
-###Abstracts and Proceedings
+##Abstracts and Proceedings
 - [DP Bradway, SJ Hsu, BJ Fahey, JJ Dahl, TC Nichols, GE Trahey. Transthoracic Cardiac Acoustic Radiation Force Impulse Imaging: A Feasibility Study. IEEE Ultrasonics Symposium (IUS), 2007.](http://dx.doi.org/10.1109/ULTSYM.2007.121)
 - [BJ Fahey, RC Nelson, SJ Hsu, DP Bradway, DM Dumont, GE Trahey. In Vivo Acoustic Radiation Force Impulse Imaging of Abdominal Lesions. IEEE Ultrasonics Symposium (IUS), 2007.](http://dx.doi.org/10.1109/ULTSYM.2007.119)
 - [DP Bradway, BJ Fahey, RC Nelson, GE Trahey. ARFI imaging of abdominal ablation and liver lesion biopsy. International Symposium on Ultrasonic Imaging and Tissue Characterization, 2009.](http://uitc-symposium.org/2009_abstracts.pdf)
