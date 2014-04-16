@@ -46,18 +46,24 @@ Work Experience
    -  Worked within a research team in a multinational corporation
    -  Developed feature for research mode of Acuson S2000 ultrasound
       scanner
-   -  Learned version control and automated build systems
+   -  `Learned version
+      control <http://www-03.ibm.com/software/products/en/clearcase>`__
+      and `automated build systems <http://www.visualstudio.com/>`__
 
 Education
 =========
 
--  **Duke University** (Durham, NC, USA)
+-  **`Duke University <http://duke.edu/>`__** (Durham, NC, USA)
 
-   Ph.D. in Biomedical Engineering, May 2013.
+   `Ph.D. in Biomedical Engineering <http://bme.duke.edu/grad>`__, May
+   2013.
 
--  **The Ohio State University (OSU)** (Columbus, OH, USA)
+-  **`The Ohio State University (OSU) <http://www.osu.edu/>`__**
+   (Columbus, OH, USA)
 
-   B.S. in Electrical and Computer Engineering, June 2005.
+   `B.S. in Electrical and Computer
+   Engineering <http://ece.osu.edu/futurestudents/undergrad>`__, June
+   2005.
 
 Relevant Course Work
 ====================
@@ -73,12 +79,16 @@ Relevant Course Work
 Honors and Activities
 =====================
 
--  Whitaker International Program Scholar (2013)
--  National Science Foundation Graduate Research Fellow (2005-2008)
--  Goldwater Research Scholar (2004-2005)
--  Founded engineering community service group at Ohio State (2003)
--  Organized engineering design and build trip to Honduran orphanage
-   (2004)
+-  `Whitaker International Program
+   Scholar <http://www.whitaker.org/grants/fellows-scholars>`__ (2013)
+-  `National Science Foundation Graduate Research
+   Fellow <http://www.nsfgrfp.org/>`__ (2005-2008)
+-  `Goldwater Research Scholar <https://goldwater.scholarsapply.org/>`__
+   (2004-2005)
+-  `Founded engineering community service group at Ohio
+   State <http://ecos.osu.edu/>`__ (2003)
+-  `Organized engineering design and build trip to Honduran
+   orphanage <http://www.montanadeluz.org/>`__ (2004)
 
 Skills
 ======
@@ -88,7 +98,8 @@ Skills
 -  Working knowlegde of other tools and languages: C/C++, OpenCL, R,
    Mathematica, MS Office
 -  Picked up for small web projects: PHP, Ruby/Rails, Perl, flavors of
-   SQL, HTML5, Javascript, Git, and RST
+   SQL, HTML5, Javascript, `Git <http://git-scm.com/>`__, and
+   `reStructuredText <http://docutils.sf.net/rst.html>`__
 -  Strong focus on problem solving, signal and image analysis,
    scientific computing, and experimental design
 -  Self-motivated execution of a high-level plan with nominal oversight
@@ -99,14 +110,20 @@ Skills
 Interests
 =========
 
--  Tracking Energy efficiency: TED5000 owner, Plotwatt user, Neurio
-   backer, MS Hohm & Google PowerMeter ex-user
+-  Tracking Energy efficiency:
+   `TED5000 <http://www.theenergydetective.com/>`__ owner,
+   `Plotwatt <plotwatt.com>`__ user, `Neurio <https://neur.io/>`__
+   backer, `MS Hohm <en.wikipedia.org/wiki/Hohm>`__ & `Google
+   PowerMeter <google.com/powermeter/about/>`__ ex-user
 -  Creating tools to close feedback loops: measure data, effect change,
    and automate it
--  Personal 'hacking' in mobile and embedded systems: Arduino, Raspberry
-   Pi, Android
--  Understanding behavior and desicision making: Behavioral Economics,
-   the Nudge Unit, Dan Ariely's work
+-  Personal 'hacking' in mobile and embedded systems:
+   `Arduino <http://www.arduino.cc/>`__, `Raspberry
+   Pi <http://www.raspberrypi.org/>`__,
+   `Android <http://www.android.com/>`__
+-  Behavioral Economics and decision making: the UK's `'Nudge
+   Unit' <https://www.gov.uk/government/organisations/behavioural-insights-team>`__,
+   the work of `Dan Ariely <http://danariely.com/>`__
 
 Publications
 ============

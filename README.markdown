@@ -11,14 +11,21 @@ Dependencies
   arguments format changed)
 * Python >= 2.7
 * A Tex installation with pdflatex and the Tex Gyre Pagella font, and some
-  packages needed by pandoc.  On Ubuntu you can get this by installing
-  `texlive`, `texlive-latex-extra`, and `tex-gyre`.
+  packages needed by pandoc.  On Ubuntu, do
+  `sudo apt-get install haskell-platform texlive texlive-latex-extra tex-gyre`.
+  On Mac and Windows see [Pandoc install](http://johnmacfarlane.net/pandoc/installing.html)
+* Sphinx (tested with v1.1.3)
+  On Ubuntu `sudo apt-get install python-sphinx`. On Mac and Windows see 
+  [Sphinx install](http://sphinx-doc.org/latest/install.html)
 
 Usage
 -----
 
-Simply run `make` to generate PDF and HTML versions of each .md file in the
-directory.
+Simply run `make` to generate a nicely formatted PDF.
+A simple HTML version is created in the same directory (see notes on Docs below for more options).
+Files are created for each .md file in the directory, so if several 
+resumes exist, they will all be processed. Only the 'resume.md' file will
+be used for project documentation as decribed in the next section.
 
 In order to enable visually appealing display of contact information, the
 Markdown is passed through a Python script that looks for contact details
@@ -29,3 +36,13 @@ separate contact lines in the output.
 By default, an image of your [Gravatar](http://www.gravatar.com) will be added
 to the HTML resumé.  This feature can be disabled by setting the environment
 variable `GRAVATAR_OPTION=--no-gravatar`.
+
+Read The Docs Configuration
+---------------------------
+When the Makefile is run for resume.md, Pandoc is called to write a reStructuredText
+format resume in the ./docs/source directory. Sphinx is then used to make 
+documentation from resume.rst in several formats (HTML and PDf, and others possible).
+Readthedocs.org can be configured to watch a Github repostitory containing the resume.
+When changes are pushed to Github, a webhook is activated and Readthedocs makes new
+online versions of the resume. See the following video tutorial to set it all up!
+[![ReadTheDocs Github automated build tutorial](http://img.youtube.com/vi/oJsUvBQyHBs/0.jpg)](http://www.youtube.com/watch?v=oJsUvBQyHBs)
