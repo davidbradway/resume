@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.2.11)  16 APR 2014 12:07
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.2.11)  16 APR 2014 15:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -930,20 +930,20 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 326.
  [3] [4]
 (./Resume.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 510.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 536.
  [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 510.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 536.
  (./Resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 510.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 510.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 536.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 536.
 Package rerunfilecheck Info: File `Resume.out' has not changed.
 (rerunfilecheck)             Checksum: 6CCE9F56B0DB71DF08B65D029CB9D1C9;525.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 510.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 536.
  ) 
 Here is how much of TeX's memory you used:
  8947 strings out of 495031
  123934 string characters out of 6181531
- 221620 words of memory out of 5000000
+ 227620 words of memory out of 5000000
  11956 multiletter control sequences out of 15000+600000
  51034 words of font info for 55 fonts, out of 8000000 for 9000
  15 hyphenation exceptions out of 8191
@@ -953,10 +953,10 @@ e/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utm
 r8a.pfb>
-Output written on Resume.pdf (9 pages, 60828 bytes).
+Output written on Resume.pdf (9 pages, 63496 bytes).
 PDF statistics:
- 118 PDF objects out of 1000 (max. 8388607)
- 101 compressed objects within 2 object streams
+ 195 PDF objects out of 1000 (max. 8388607)
+ 178 compressed objects within 2 object streams
  21 named destinations out of 1000 (max. 500000)
  73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
