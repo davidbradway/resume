@@ -36,7 +36,7 @@ Birthdate: 1 February 1982
 
     -   Worked within a research team in a multinational corporation
     -   Developed feature for research mode of Acuson S2000 ultrasound scanner
-    -   [Learned version control](http://www-03.ibm.com/software/products/en/clearcase) and [automated build systems](http://www.visualstudio.com/)
+    -   [Learned version control](http://www-03.ibm.com/software/products/en/clearcase) and [IDE management](http://www.visualstudio.com/)
 
 
 #Education

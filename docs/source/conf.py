@@ -181,7 +181,8 @@ latex_elements = {
 }
 
 # Grouping the document tree into LaTeX files. List of tuples
-# (source start file, target name, title, author, documentclass [howto/manual]).
+# (source start file, target name, title,
+#  author, documentclass [howto/manual]).
 latex_documents = [
   ('index', 'Resume.tex', u'Resume / CV',
    u'David Pierson Bradway', 'manual'),
@@ -211,7 +212,8 @@ latex_documents = [
 # -- Options for manual page output --------------------------------------------
 
 # One entry per manual page. List of tuples
-# (source start file, name, description, authors, manual section).
+# (source start file, name, description,
+#  authors, manual section).
 man_pages = [
     ('index', 'resume', u'Resume / CV',
      [u'David Pierson Bradway'], 1)
@@ -224,8 +226,9 @@ man_pages = [
 # -- Options for Texinfo output ------------------------------------------------
 
 # Grouping the document tree into Texinfo files. List of tuples
-# (source start file, target name, title, author,
-#  dir menu entry, description, category)
+# (source start file, target name, title, 
+#  author, dir menu entry, description,
+#  category)
 texinfo_documents = [
   ('index', 'Resume', u'Resume / CV',
    u'David Pierson Bradway', 'Resume', 'The resume of David Pierson Bradway.',

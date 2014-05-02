@@ -48,7 +48,7 @@ Work Experience
       scanner
    -  `Learned version
       control <http://www-03.ibm.com/software/products/en/clearcase>`__
-      and `automated build systems <http://www.visualstudio.com/>`__
+      and `IDE management <http://www.visualstudio.com/>`__
 
 Education
 =========
