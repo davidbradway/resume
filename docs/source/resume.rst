@@ -24,7 +24,8 @@ Work Experience
       data on the GPU
    -  Conference presentaion, poster, abstracts, and proceedings
       accepted
-   -  Pursuing pre-clinical feasibility study and peer-reviewed article
+   -  Leading pre-clinical feasibility study and preparing peer-reviewed
+      article
 
 -  **Duke University** (Durham, NC, USA)
 

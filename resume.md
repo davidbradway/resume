@@ -18,8 +18,7 @@ Birthdate: 1 February 1982
 
     -   Developed OpenCL software for processing 3-D Doppler ultrasound data on the GPU
     -   Conference presentaion, poster, abstracts, and proceedings accepted
-    -   Pursuing pre-clinical feasibility study and peer-reviewed article
-
+    -   Leading pre-clinical feasibility study and preparing peer-reviewed article
 
 *   **Duke University** (Durham, NC, USA)
 
