@@ -25,7 +25,8 @@ Birthdate: 1 February 1982
     Graduate Research and Teaching Assistant, 2005 - 2013
 
     -   PhD project using ultrasound to noninvasively measure the heart's mechanical properties
-    -   Reviewed scientific literature, formulated and carried out research plan
+    -   Developed ARFI imaging protocol on Verasonics Research Platform Ultrasound scanner
+    -   Reviewed scientific literature, formulated and executed research plan
     -   Organized and conducted out pre-clinical trials at Duke University Medical Center
     -   Presented results at conferences, published proceedings and co-authored articles
 
@@ -35,7 +36,7 @@ Birthdate: 1 February 1982
 
     -   Worked within a research team in a multinational corporation
     -   Developed feature for research mode of Acuson S2000 ultrasound scanner
-    -   [Learned version control](http://www-03.ibm.com/software/products/en/clearcase) and [IDE management](http://www.visualstudio.com/)
+    -   [Learned version control](http://www-03.ibm.com/software/products/en/clearcase) and [IDE tools](http://www.visualstudio.com/)
 
 
 #Education
@@ -85,7 +86,7 @@ Birthdate: 1 February 1982
 *   Tracking Energy efficiency: [TED5000](http://www.theenergydetective.com/) owner, [Plotwatt](plotwatt.com) user, [Neurio](https://neur.io/) backer, [MS Hohm](en.wikipedia.org/wiki/Hohm) & [Google PowerMeter](google.com/powermeter/about/) ex-user
 *   Creating tools to close feedback loops: measure data, effect change, and automate it
 *   Personal 'hacking' in mobile and embedded systems: [Arduino](http://www.arduino.cc/), [Raspberry Pi](http://www.raspberrypi.org/), [Android](http://www.android.com/)
-*   Behavioral Economics and decision making: the UK's ['Nudge Unit'](https://www.gov.uk/government/organisations/behavioural-insights-team), the work of [Dan Ariely](http://danariely.com/)
+*   Behavioral Economics and decision making: the UK ['Nudge Unit'](https://www.gov.uk/government/organisations/behavioural-insights-team), the work of [Dan Ariely](http://danariely.com/)
 
 
 #Publications

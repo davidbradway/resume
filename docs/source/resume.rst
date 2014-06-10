@@ -33,8 +33,10 @@ Work Experience
 
    -  PhD project using ultrasound to noninvasively measure the heart's
       mechanical properties
-   -  Reviewed scientific literature, formulated and carried out
-      research plan
+   -  Developed ARFI imaging protocol on Verasonics Research Platform
+      Ultrasound scanner
+   -  Reviewed scientific literature, formulated and executed research
+      plan
    -  Organized and conducted out pre-clinical trials at Duke University
       Medical Center
    -  Presented results at conferences, published proceedings and
@@ -49,7 +51,7 @@ Work Experience
       scanner
    -  `Learned version
       control <http://www-03.ibm.com/software/products/en/clearcase>`__
-      and `IDE management <http://www.visualstudio.com/>`__
+      and `IDE tools <http://www.visualstudio.com/>`__
 
 Education
 =========
@@ -121,7 +123,7 @@ Interests
    `Arduino <http://www.arduino.cc/>`__, `Raspberry
    Pi <http://www.raspberrypi.org/>`__,
    `Android <http://www.android.com/>`__
--  Behavioral Economics and decision making: the UK's `'Nudge
+-  Behavioral Economics and decision making: the UK `'Nudge
    Unit' <https://www.gov.uk/government/organisations/behavioural-insights-team>`__,
    the work of `Dan Ariely <http://danariely.com/>`__
 
