@@ -67,17 +67,6 @@ Education
    Engineering <http://ece.osu.edu/futurestudents/undergrad>`__, June
    2005.
 
-Relevant Course Work
-====================
-
--  Digital Signal Processing
--  Circuits and Instrumentation
--  Image Processing and Analysis
--  Systems and Signals
--  Statistical Signal Processing
--  C/C++ Programming
--  Education and communication courses
-
 Honors and Activities
 =====================
 
