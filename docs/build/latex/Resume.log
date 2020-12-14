@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.8.1)  13 FEB 2017 15:32
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.8.1)  25 MAY 2018 13:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -961,62 +961,62 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 361.
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 457--461
-[]\T1/ptm/m/n/10 17. Nel-son RC, Brad-way DP, Fa-hey BJ, Tra-hey GE (2009) Fu-t
+Underfull \hbox (badness 10000) in paragraph at lines 462--466
+[]\T1/ptm/m/n/10 18. Nel-son RC, Brad-way DP, Fa-hey BJ, Tra-hey GE (2009) Fu-t
 ure Ap-pli-ca-tion of Ul-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 457--461
+Underfull \hbox (badness 10000) in paragraph at lines 462--466
 \T1/ptm/m/n/10 tra-sound: Acous-tic Ra-di-a-tion Force Im-pulse (ARFI) Imag-ing
 . In: AIUM. Avail-able:
  []
 
 
-Underfull \hbox (badness 6691) in paragraph at lines 486--490
-[]\T1/ptm/m/n/10 22. Brad-way DP, Hsu SJ, Wolf PD, Tra-hey GE (2010) Transtho-r
+Underfull \hbox (badness 6691) in paragraph at lines 491--495
+[]\T1/ptm/m/n/10 23. Brad-way DP, Hsu SJ, Wolf PD, Tra-hey GE (2010) Transtho-r
 acic Acous-tic Ra-di-a-tion Force
  []
 
 
-Underfull \hbox (badness 6775) in paragraph at lines 486--490
+Underfull \hbox (badness 6775) in paragraph at lines 491--495
 \T1/ptm/m/n/10 Im-pulse Imag-ing of Car-diac Func-tion. In: In-ter-na-tional ti
 s-sue elas-tic-ity con-fer-ence. Avail-able:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 491--496
-[]\T1/ptm/m/n/10 23. Brad-way DP, Rosen-zweig SR, Do-herty JR, Hyun D, Tra-hey 
+Underfull \hbox (badness 10000) in paragraph at lines 496--501
+[]\T1/ptm/m/n/10 24. Brad-way DP, Rosen-zweig SR, Do-herty JR, Hyun D, Tra-hey 
 GE (2011) Re-cent Re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 491--496
+Underfull \hbox (badness 10000) in paragraph at lines 496--501
 \T1/ptm/m/n/10 sults and Ad-vances in Transtho-racic Car-diac Acous-tic Ra-di-a
 -tion Force Im-pulse Imag-ing.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 491--496
+Underfull \hbox (badness 10000) in paragraph at lines 496--501
 \T1/ptm/m/n/10 In: In-ter-na-tional sym-po-sium on ul-tra-sonic imag-ing and ti
 s-sue char-ac-ter-i-za-tion. Avail-able:
  []
 
 [4] (./Resume.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 563.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 585.
  [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 563.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 585.
  (./Resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 563.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 563.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 585.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 585.
 Package rerunfilecheck Info: File `Resume.out' has not changed.
 (rerunfilecheck)             Checksum: 0CD920E2CD202E818AF44E2CE831CA9D;830.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 563.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 585.
  ) 
 Here is how much of TeX's memory you used:
  9134 strings out of 493488
  128476 string characters out of 3141327
- 220362 words of memory out of 3000000
+ 220357 words of memory out of 3000000
  12165 multiletter control sequences out of 15000+200000
  54426 words of font info for 57 fonts, out of 3000000 for 9000
  958 hyphenation exceptions out of 8191
@@ -1026,10 +1026,10 @@ exlive/2012/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/
 2012/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texlive/2012/t
 exmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/
 fonts/type1/urw/times/utmr8a.pfb>
-Output written on Resume.pdf (9 pages, 72203 bytes).
+Output written on Resume.pdf (9 pages, 73121 bytes).
 PDF statistics:
- 190 PDF objects out of 1000 (max. 8388607)
- 168 compressed objects within 2 object streams
+ 194 PDF objects out of 1000 (max. 8388607)
+ 172 compressed objects within 2 object streams
  25 named destinations out of 1000 (max. 500000)
  125 words of extra memory for PDF output out of 10000 (max. 10000000)
 

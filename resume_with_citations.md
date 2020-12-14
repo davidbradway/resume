@@ -77,9 +77,9 @@ Durham, NC 27708 USA
 
 ##Professional Activities
 
-*   Early Career Professional Development in Medical Imaging Workshop, SPIE Medical Imaging 2015
-*   Associate Editor, Ultrasonic Imaging journal (2016-)
-*   Reviewer for Ultrasound in Medicine and Biology, Ultrasonic Imaging jounal
+*   Early Career Professional Development in Medical Imaging Workshop, SPIE Medical Imaging (2015)
+*   Associate Editor for the journal Ultrasonic Imaging (2016-)
+*   Reviewer for the journals Ultrasound in Medicine and Biology, Ultrasonic Imaging, IEEE Transactions on Medical Imaging
 
 ##Submitted proposals
 
@@ -95,9 +95,9 @@ Durham, NC 27708 USA
 *   Personal projects in mobile and embedded systems: [Arduino](http://www.arduino.cc/), [Raspberry Pi](http://www.raspberrypi.org/)
 
 ###Journal Articles
-[@Fahey2008a;@Fahey2008c;@Nightingale2008;@Nightingale2009;@Wolf2011;@Eyerly2012;@Hollender2013;@Patel2014;@Eyerly2014;@jensen2016;@bottenus2016]
+[@Fahey2008a;@Fahey2008c;@Nightingale2008;@Nightingale2009;@Wolf2011;@Eyerly2012;@Hollender2013;@Patel2014;@Eyerly2014;@jensen2016;@bottenus2016;@Long2018]
 
 ###Abstracts and Proceedings
-[@Hsu2007c;@Bradway2007;@Fahey2007b;@Bradway2009;@Husarik2009;@Nelson2009;@Bradway2009b;@Hsu2010;@Hollender2010;@Bradway2010;@Bradway2010b;@Bradway2011;@Byram2011;@Byram2011b;@Bradway2012;@Bradway2012b;@Hollender2012;@Eyerly2012b;@Hollender2012b;@Goswami2013;@Patel2013;@Bradway2014;@Bradway2015]
+[@Hsu2007c;@Bradway2007;@Fahey2007b;@Bradway2009;@Husarik2009;@Nelson2009;@Bradway2009b;@Hsu2010;@Hollender2010;@Bradway2010;@Bradway2010b;@Bradway2011;@Byram2011;@Byram2011b;@Bradway2012;@Bradway2012b;@Hollender2012;@Eyerly2012b;@Hollender2012b;@Goswami2013;@Patel2013;@Bradway2014;@Bradway2015;@Hollender2017;@Kakkad2017;@Long2017]
 
 ##Publications
