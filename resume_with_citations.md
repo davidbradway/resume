@@ -27,8 +27,8 @@ Durham, NC 27708 USA
     Postdoctoral Researcher, 2013 - 2014
 
     -   Developed OpenCL software for processing 3-D vector flow imaging ultrasound data on the GPU
-    -   Presented one conference presentation, one poster, and two proceedings (SPIE 2014 & 2015)
-    -   Contributed as co-author to one peer-reviewed journal articles
+    -   Presented a conference presentation, a poster, and proceedings (SPIE 2014 & 2015)
+    -   Contributed as co-author to another peer-reviewed journal article
     -   Examined feasibility of transthoracic cardiac vector flow imaging on a phased-array probe
 
 *   **Duke University** (Durham, NC, USA)
@@ -64,10 +64,15 @@ Durham, NC 27708 USA
 *   Guest lecturer, Biomedical Engineering 590 (2016)
 *   Co-Instructor, "International Summer School on Advanced Ultrasound Imaging", Technical University of Denmark (June 2015)
 
+## Grants and Contracts
+
+*   [2019 Research Germinator Award, Duke Institute for Brain Sciences (DIBS)](https://dibs.duke.edu/research/awards/schedule-application) Ravikanth Velagapudi, PhD, Anesthesiology, School of Medicine; and William Huffman and David Bradway, PhD, Biomedical Engineering, Pratt School of Engineering. Targeting Autophagy with Non-Invasive Vagal Nerve Stimulation to Treat Delirium Superimposed on Dementia.
+
 ## Invention Disclosures and Patents
 
 *   Duke IDF #a3348ed7: "Split Aperture ARFI / SWEI"
 *   Duke IDF #540: "Visual Feedback for Improved Triggered Acquisitions for Ultrasound Imaging"
+*   Trahey, G., Long, W., Hollender, P., Bradway, D., Kakkad, V. and Bottenus, N., Duke University, 2021. Methods, systems and computer program products for triggering ultrasound data acquisition. U.S. Patent 10,969,487.
 
 ## Honors and Activities
 

@@ -85,12 +85,26 @@ Teaching
 -  Co-Instructor, “International Summer School on Advanced Ultrasound
    Imaging”, Technical University of Denmark (June 2015)
 
+Grants and Contracts
+--------------------
+
+-  `2019 Research Germinator Award, Duke Institute for Brain Sciences
+   (DIBS) <https://dibs.duke.edu/research/awards/schedule-application>`__
+   Ravikanth Velagapudi, PhD, Anesthesiology, School of Medicine; and
+   William Huffman and David Bradway, PhD, Biomedical Engineering, Pratt
+   School of Engineering. Targeting Autophagy with Non-Invasive Vagal
+   Nerve Stimulation to Treat Delirium Superimposed on Dementia.
+
 Invention Disclosures and Patents
 ---------------------------------
 
 -  Duke IDF #a3348ed7: “Split Aperture ARFI / SWEI”
 -  Duke IDF #540: “Visual Feedback for Improved Triggered Acquisitions
    for Ultrasound Imaging”
+-  Trahey, G., Long, W., Hollender, P., Bradway, D., Kakkad, V. and
+   Bottenus, N., Duke University, 2021. Methods, systems and computer
+   program products for triggering ultrasound data acquisition. U.S.
+   Patent 10,969,487.
 
 Honors and Activities
 ---------------------
@@ -259,10 +273,10 @@ Publications
       :name: ref-Flint2020
 
       13. Flint K, Bottenus N, Bradway D, McNally P, Ellestad S, et al.
-      (2020) An Automated ALARA Method for Ultrasound: An Obstetric
-      Ultrasound Feasibility Study. Journal of Ultrasound in Medicine:
-      jum.15570. Available:
-      https://onlinelibrary.wiley.com/doi/10.1002/jum.15570.
+      (2021) An Automated ALARA Method for Ultrasound: An Obstetric
+      Ultrasound Feasibility Study. Journal of Ultrasound in Medicine
+      40: 1863–1877. Available:
+      https://onlinelibrary.wiley.com/doi/abs/10.1002/jum.15570.
 
    .. container::
       :name: ref-dobbins2019medical
