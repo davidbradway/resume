@@ -103,7 +103,7 @@ Durham, NC 27708 USA
 [@dobbins2019medical;@eyerly2018acoustic]
 
 ### Abstracts and Proceedings
-[@Hsu2007c;@Bradway2007;@Fahey2007b;@Bradway2009;@Husarik2009;@Nelson2009;@Bradway2009b;@Hsu2010;@Hollender2010;@Bradway2010;@Bradway2010b;@Bradway2011;@Byram2011;@Byram2011b;@Bradway2012;@Bradway2012b;@Hollender2012;@Eyerly2012b;@Hollender2012b;@Goswami2013;@Patel2013;@Bradway2014;@Bradway2015;@Bottenus2015;@Kakkad2015;@Kakkad2017;@Hollender2017]
+[@Hsu2007c;@Bradway2007;@Fahey2007b;@Bradway2009;@Husarik2009;@Nelson2009;@Bradway2009b;@Hsu2010;@Hollender2010;@Bradway2010;@Bradway2010b;@Bradway2011;@Byram2011;@Byram2011b;@Bradway2012;@Bradway2012b;@Hollender2012;@Eyerly2012b;@Hollender2012b;@Goswami2013;@Patel2013;@Bradway2014;@Bradway2015;@Bottenus2015;@Kakkad2015;@Kakkad2017;@Hollender2017;@Long2017IUS;@Flint2018]
 
 ## Publications
 

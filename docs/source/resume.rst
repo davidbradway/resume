@@ -32,9 +32,9 @@ Work Experience
 
    -  Developed OpenCL software for processing 3-D vector flow imaging
       ultrasound data on the GPU
-   -  Presented one conference presentation, one poster, and two
-      proceedings (SPIE 2014 & 2015)
-   -  Contributed as co-author to one peer-reviewed journal articles
+   -  Presented a conference presentation, a poster, and proceedings
+      (SPIE 2014 & 2015)
+   -  Contributed as co-author to another peer-reviewed journal article
    -  Examined feasibility of transthoracic cardiac vector flow imaging
       on a phased-array probe
 
@@ -156,7 +156,7 @@ Book Chapters
 Abstracts and Proceedings
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-[16–42]
+[16–44]
 
 Publications
 ------------
@@ -531,3 +531,21 @@ Publications
       track location comb-push ultrasound shear elastography (STL-CUSE).
       In: IEEE international ultrasonics symposium, ius.
       doi:`10.1109/ULTSYM.2017.8092809 <https://doi.org/10.1109/ULTSYM.2017.8092809>`__
+
+   .. container::
+      :name: ref-Long2017IUS
+
+      43. Long W, Hyun D, Choudhury K, Bradway D, McNally P, et al.
+      (2017) Translation of fetal short-lag spatial coherence (slsc)
+      imaging into clinical practice: A pilot study. In: 2017 ieee
+      international ultrasonics symposium (ius). pp. 1–1.
+      doi:`10.1109/ULTSYM.2017.8091968 <https://doi.org/10.1109/ULTSYM.2017.8091968>`__
+
+   .. container::
+      :name: ref-Flint2018
+
+      44. Flint K, Bottenus N, Long W, Bradway D, McNally P, et al.
+      (2018) Implementation and clinical evaluation of a fetal alara
+      ultrasound system. In: 2018 ieee international ultrasonics
+      symposium (ius). pp. 1–4.
+      doi:`10.1109/ULTSYM.2018.8579734 <https://doi.org/10.1109/ULTSYM.2018.8579734>`__
